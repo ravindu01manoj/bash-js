@@ -1,6 +1,6 @@
 {
   "name": "@ravindu01manoj/bash-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "exec shell commands and scripts",
   "main": "./index.js",
   "keywords": [

@@ -33,7 +33,7 @@ touch hello.txt
 ls
 cd ..
 `
-const output = await bash.command(script)
+const output = await bash.script(script)
 console.log(output)
 }
 run()
