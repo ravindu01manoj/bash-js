@@ -1,0 +1,37 @@
+{
+  "name": "@ravindu01manoj/bash-js",
+  "version": "1.0.1",
+  "description": "exec shell commands and scripts",
+  "main": "./index.js",
+  "keywords": [
+    "exec",
+    "shell",
+    "shelljs",
+    "bash",
+    "bashjs",
+    "bash-js",
+    "script",
+    "commands"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ravindu Manoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravindu01manoj/bash-js/issues"
+  },
+  "homepage": "https://github.com/bash-js/Sinhala-Unicode#readme",
+  "dependencies": {
+    "child_process": "1.0.2",
+    "fs": "^0.0.1-security",
+    "util": "0.12.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindu01manoj/bash-js.git"
+  }
+}
