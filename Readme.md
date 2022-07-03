@@ -8,9 +8,9 @@
 
 ## Installation 
 ```sh
-npm i bash-js
+npm i @ravindu01manoj/bash-js
 ## or
-yarn add bash-js
+yarn add @ravindu01manoj/bash-js
 ```
 
 ***
